@@ -1,0 +1,12 @@
+---
+title: "Talk at ESSIC/UMD: Uncommon Trends"
+date: "2026-04-27"
+categories: [talk, paleoclimate, common-era]
+image: ../assets/img/essic-seminar-2026.png
+---
+
+Prof. Emile-Geay gave a webinar at the [Earth System Science Interdisciplinary Center (ESSIC)](https://essic.umd.edu/) at the University of Maryland on April 27, 2026. The talk, entitled *Uncommon Trends: Progress and Challenges in Extending Climate Knowledge Over the Common Era*, covered recent advances in reconstructing climate patterns over the past two millennia using paleo data assimilation — and what these reconstructions reveal about the unprecedented nature of recent warming trends. It was the opportunity to dust off some analyses that had been sitting in drawers for too long, and to revamp them for new datasets. Publications are forthcoming!
+
+A recording is available on YouTube:
+
+{{< video https://www.youtube.com/watch?v=d-GyTjNHvos >}}

@@ -1,0 +1,10 @@
+---
+title: "LinkedEarth Featured on AGU TV"
+date: "2025-12-15"
+categories: [linkedearth, outreach, paleoclimate]
+image: ../assets/img/linkedearth-logo.png
+---
+
+At the 2025 Fall AGU meeting in Washington DC, [LinkedEarth](https://linked.earth) — the open paleoclimate data community that Prof. Emile-Geay co-founded — was featured on AGU TV. The segment highlights the community's work building open, FAIR paleoclimate databases and the tools that make them useful for the broader climate science community.
+
+{{< video https://youtu.be/vXJ7wdCzVgI?si=Pya0j6OFu4bB4G4Q >}}
