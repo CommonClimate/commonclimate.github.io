@@ -26,6 +26,9 @@ jobs:
         with:
           r-version: '4.3.0'
 
+      - name: Install system dependencies
+        run: sudo apt-get install -y libuv1-dev
+
       - name: Install R Dependencies
         run: |
           install.packages(c("rmarkdown", "knitr"))
